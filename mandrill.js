@@ -10,7 +10,7 @@ $("#feedbackbutton").click(function() {
 	      "from_email": "psefeedback@gmail.com",
 	      "to": [
 	          {
-	            "email": "nkasala@psegammazeta.org",
+	            "email": "aristich@psegammazeta.org",
 	            "name": "RECIPIENT NAME (OPTIONAL)",
 	            "type": "to"
 	          }
