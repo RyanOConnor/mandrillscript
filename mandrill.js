@@ -13,11 +13,6 @@ $("#feedbackbutton").click(function() {
 	            "email": "nkasala@psegammazeta.org",
 	            "name": "RECIPIENT NAME (OPTIONAL)",
 	            "type": "to"
-	          },
-	          {
-	            "email": "sirryanoconnor@gmail.com",
-	            "name": "ANOTHER RECIPIENT NAME (OPTIONAL)",
-	            "type": "to"
 	          }
 	        ],
 	      "autotext": "true",
