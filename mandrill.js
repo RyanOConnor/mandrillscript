@@ -21,4 +21,5 @@ $("#feedbackbutton").click(function() {
 	    }
 	  }
 	 });
+	window.location = "http://niu.pse.org/";
 });
