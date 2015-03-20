@@ -1,0 +1,1 @@
+Sends email with the Mandrill API
